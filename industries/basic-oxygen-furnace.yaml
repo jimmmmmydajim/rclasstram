@@ -107,8 +107,6 @@ cargoAcceptance:
 - O2__
 cargoProduction:
 - STCB
-- STAL
-- SLAG
 colour: 49
 fundCostMultiplier: 160
 id: 1

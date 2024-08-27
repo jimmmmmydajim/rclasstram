@@ -106,7 +106,6 @@ cargoAcceptance:
 cargoProduction:
 - CSTI
 - IRON
-- SLAG
 colour: 10
 fundCostMultiplier: 190
 id: 2
